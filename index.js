@@ -1,3 +1,5 @@
+console.log("test");
+
 const artists = [
   {
     id: 0,
